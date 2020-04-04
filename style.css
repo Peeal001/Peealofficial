@@ -1,0 +1,62 @@
+body{
+  margin: 0px;
+  text-align: center;
+  font-family: 'Noto Serif', serif;
+  font-size:200%;
+}
+h1{
+  font-size:5.625em;
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+  color: red;
+}
+h2{
+  font-family: 'Noto Serif', serif;
+  text-align: center;
+}
+h3{
+font-family: 'Noto Serif', serif;
+}
+.top-container {
+  background-color: #E4F9F5;
+  position:relative;
+  padding-top:100px;
+
+}
+
+.middle-container {
+
+
+}
+.bottom-container {
+
+}
+.pro{
+  text-decoration: underline;
+  color:red;
+}
+.para{
+  color:red;
+}
+.top-position{
+  position:absolute;
+  right:300px;
+  top:50px;
+
+}
+
+
+.bottom-position{
+  position:absolute;
+  left:300px;
+  bottom:300px;
+}
+.peealphoto{
+position: relative;
+padding-right:10px;
+}
+.osam{
+  border-radius: 900px;
+  position:absolute;
+  left:300px;
+}
